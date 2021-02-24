@@ -1,2 +1,2 @@
-# WEB-NOTES-APP
-you can store your notes and codes
+# WEB-Note-app
+MY first java script project
